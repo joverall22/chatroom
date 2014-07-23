@@ -32,3 +32,8 @@ p{
   margin: 3px 0;
   font-size: 17px;
 }
+
+.muted {
+    color: gray;
+    font-size: 8px;
+}
